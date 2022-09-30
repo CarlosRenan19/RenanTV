@@ -776,6 +776,10 @@ div.card-valor:nth-child(2) button:hover {
     .imagens-playerweb img:nth-child(1) {
         left: 20px;
     }
+    
+    .imagens-playerweb img:nth-child(2) {
+        left: -135px;
+    }
 
     .card-valor {
         width: 250px;
